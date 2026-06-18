@@ -25,4 +25,6 @@ public class DetailPeminjamanEntity {
     @ManyToOne
     @JoinColumn(name="buku_id")
     private BukuEntity buku;
+
+    //hello
 }
